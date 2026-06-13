@@ -1,0 +1,6 @@
+{
+  "name": "Sermon Transcriber & Summarizer",
+  "description": "Transcribe pulpit or pre-recorded sermons, generate structured summaries, find key biblical messages, and produce shareable social media slides.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
